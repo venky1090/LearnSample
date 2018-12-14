@@ -25,4 +25,7 @@ public class Palindrome {
 
 	}
 
+	public static void sample() {
+		
+	}
 }
