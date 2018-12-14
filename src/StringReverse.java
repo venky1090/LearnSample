@@ -1,6 +1,6 @@
 
 public class StringReverse {
-
+	
 	public static void main(String[] args) {
 		String str = "Bhavana", rev = "";
 		
@@ -13,5 +13,7 @@ public class StringReverse {
 		System.out.println(rev);
 
 	}
-
+	
+	public static sample() {
+	}
 }
